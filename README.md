@@ -14,3 +14,5 @@ This dashboard empowers HR teams to identify trends, monitor key metrics, and im
 Explore the dashboard and discover how data visualization can transform HR analytics
 
 Skills: Data Visualization · Data Modeling · Data Analysis · HR Management · Microsoft Power BI
+
+Link: https://app.powerbi.com/view?r=eyJrIjoiZDE2MTg4ZTktZmI5Ny00YjNlLTlmYjktMTdmNzE4MjQ4ZjBhIiwidCI6ImNiMGE2MjY5LTAzNjEtNDY5OC04MWZjLWU1NDRkZmJkMGQ2OSJ9
